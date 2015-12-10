@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar">#345678</color>
+    <color name="listview">#667788</color>
+    <color name="background">#ff303030</color>
+</resources>

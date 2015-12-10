@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">파이어볼스</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notice">노티스</string>
+    <string name="freeboard">자유게시판</string>
+    <string name="members">멤버스</string>
+    <string name="app_info">성균관대학교 정보통신대학 축구동아리 파이어볼스 앱</string>
+    <string name="version_checker_url">http://fireballs.namoweb.net/android/version_checker.json</string>
+    <string name="version">2.30</string>
+    <string name="year">15</string>
+    <string name="month">9</string>
+    <string name="date">18</string>
+
+</resources>
